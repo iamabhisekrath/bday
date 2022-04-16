@@ -1,6 +1,5 @@
-var a=prompt("Enter UserName");
- var b=prompt("Enter password");
-  	if(a== "ABHISEK" && b=="covid219")
+href("click here");
+  	if(a== "abhisek" && b=="covid19")
   	{
   	    window.location.href="start.html";
   	}
@@ -9,4 +8,3 @@ var a=prompt("Enter UserName");
   		alert("invalid details");
   		window.location.href="index.html";
   	}
-  	
